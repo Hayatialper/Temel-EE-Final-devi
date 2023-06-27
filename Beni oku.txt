@@ -1,0 +1,5 @@
+Bu videoda yardım aldığım kaynak: https://youtu.be/23_ttll2EWU
+Bu videonun açıklamasındaki gitHub kodunu kullanmış olup eklemeler yaptım.
+
+Kullandığım devre şeması ESP32 WROOM 32-E için olup diğer esp32 modelleri ile uyumluluk ve farklılık sağlayabilir.
+Buna göre kodu değiştirmeyi unutmayın.
